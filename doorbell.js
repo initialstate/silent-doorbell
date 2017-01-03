@@ -1,5 +1,5 @@
 var dash_button = require('node-dash-button'),
-    dash = dash_button('ac:63:be:8b:ce:87'), // replace xx:xx:xx:xx:xx:xx with $
+    dash = dash_button('xx:xx:xx:xx:xx:xx'), //REPLACE WITH YOUR ADDRESS
     exec = require('child_process').exec;
 
 var IS = require('initial-state');
